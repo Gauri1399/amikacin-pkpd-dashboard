@@ -38,7 +38,7 @@ Regimens meeting both criteria are labeled "Ideal."
 ```text
 amikacinapp/
 ├── app.R
-├── amikacin.cpp
+├── amikacin.cpp (mrgsolve PK model input)
 ├── environment.yml
 └── README.md
 ```
