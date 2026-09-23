@@ -2,6 +2,9 @@
 
 An interactive R Shiny dashboard for simulating amikacin pharmacokinetics and evaluating different dosing regimens using an `mrgsolve` PK model.
 
+## Live Application
+[Launch the Amikacin PK/PD Dashboard](https://agrawal-gauri.shinyapps.io/amikacinapp/)
+
 ## Features
 
 - Patient-specific inputs for weight, age, sex, and serum creatinine
@@ -62,9 +65,3 @@ Run the application:
 ```r
 shiny::runApp()
 ```
-
-## Live Application
-
-[Launch the Amikacin PK/PD Dashboard](https://agrawal-gauri.shinyapps.io/amikacinapp/)
-
-````
