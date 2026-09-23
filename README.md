@@ -1,4 +1,3 @@
-````markdown
 # Amikacin PK/PD Dashboard
 
 An interactive R Shiny dashboard for simulating amikacin pharmacokinetics and evaluating different dosing regimens using an `mrgsolve` PK model.
