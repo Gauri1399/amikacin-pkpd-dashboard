@@ -1,0 +1,14 @@
+name: amikacin-shiny
+
+channels:
+  - conda-forge
+
+dependencies:
+  - r-base
+  - r-shiny
+  - r-shinydashboard
+  - r-mrgsolve
+  - r-dplyr
+  - r-tidyr
+  - r-ggplot2
+  - r-dt
